@@ -1,3 +1,3 @@
 # flexbox
 
-- Repository created for the flexbox practice 
+- Repository created for the flexbox practice.
